@@ -1,0 +1,1 @@
+# Generals.io Wiki
