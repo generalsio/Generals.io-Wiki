@@ -1,1 +1,2 @@
-Matt was here
+# generals.io wiki
+[maps](maps) | [extensions](extensions)

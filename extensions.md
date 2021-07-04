@@ -1,0 +1,10 @@
+- [team extension](https://gist.github.com/pasghetti/6e32298426b1fa0d4213ae70bfbbdb99) by pasghetti - make teams the same color with different border colors
+- [recolor extension](https://gist.github.com/Allen-B1/49cebdaddc14e2e45a2282cf5cdc88b3) by person2597 - make teams different shades of the same colors
+- [stat extension](https://gist.github.com/pasghetti/c05e35c959137b55721863d27424dbd6) by pasghetti - show statistics (WR, games played, etc) for a user
+- [stat extension](https://gist.github.com/Allen-B1/e94d7b3ce1ee9b9a73b60e95d983ffc6) by person2597 - show statistics (WR, games played, etc) for a user
+- [tournament extension](https://gist.github.com/Allen-B1/b5b9440306848d4349b287103cc18b98) by person2597 - create generals.io tournaments with BracketHQ
+- [friendlist extension](https://gist.github.com/Element00/39ef62014e75d03d1bd6c31a4f554111) by President Trump
+- [profile fix extension](https://gist.github.com/pasghetti/fde47a68b0a8be8adbe52708fb6be6e0) by pasghetti
+- [queue sniper extension](https://github.com/zzd233/Generals.io-1v1-match-helper) by zzd223
+- [replay enchantment extension](https://gist.github.com/pasghetti/895d9c5e90e07250992edddab3ace3d0) by pasghetti
+- [map tools](https://gist.github.com/Allen-B1/1f07555ee365696cfe57547ea46fe6e3) by person2597
