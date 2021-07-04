@@ -11,9 +11,9 @@ These maps rely on making sure that every move is done optimally.
 - series: [vizion](https://generals.io/maps/vizion%20v0.8) by fakuku
 - series: [vision](https://generals.io/maps/vision%20v0.75) by fakuku
 
-### Plots Variants
+### Plots
 - The OG: [Plots](https://generals.io/maps/Plots) by Assasin978
 - [Plots Lazerpent](https://generals.io/maps/Plots%20Lazerpent) by Lazerpent - Plots but better
 - [Plots Light](https://generals.io/maps/Plots%20Light) by Fekete - Plots but lit
-- [Close Quarters Plots](https://generals.io/maps/Close%20Quarters%20Plots)
-- [Lit Close Quarters Plots](https://generals.io/maps/Lit%20Close%20Quarters%20Plots)
+- [Close Quarters Plots](https://generals.io/maps/Close%20Quarters%20Plots) by RespectTheFancy
+- [Lit Close Quarters Plots](https://generals.io/maps/Lit%20Close%20Quarters%20Plots) by RespectTheFancy
