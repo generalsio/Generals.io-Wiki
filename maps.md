@@ -17,3 +17,10 @@ These maps rely on making sure that every move is done optimally.
 - [Plots Light](https://generals.io/maps/Plots%20Light) by Fekete - Plots but lit
 - [Close Quarters Plots](https://generals.io/maps/Close%20Quarters%20Plots) by RespectTheFancy - Plots but with 4 plots
 - [Lit Close Quarters Plots](https://generals.io/maps/Lit%20Close%20Quarters%20Plots) by RespectTheFancy - Plots but with 4 plots but lit
+
+### Fantasy
+Large 4x maps with separated spawns, each with unique advantages and disadvantages, often with a backstory.
+
+- [Arkadia](https://generals.io/maps/Arkadia%20v1.6) by RespectTheFancy
+  - [Mini Arkadia](https://generals.io/maps/Mini%20Arkadia%20v1.5) by RespectTheFancy
+- [The War of Classes](https://generals.io/maps/The%20War%20of%20Classes)
