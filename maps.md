@@ -15,5 +15,5 @@ These maps rely on making sure that every move is done optimally.
 - The OG: [Plots](https://generals.io/maps/Plots) by Assasin978
 - [Plots Lazerpent](https://generals.io/maps/Plots%20Lazerpent) by Lazerpent - Plots but better
 - [Plots Light](https://generals.io/maps/Plots%20Light) by Fekete - Plots but lit
-- [Close Quarters Plots](https://generals.io/maps/Close%20Quarters%20Plots) by RespectTheFancy
-- [Lit Close Quarters Plots](https://generals.io/maps/Lit%20Close%20Quarters%20Plots) by RespectTheFancy
+- [Close Quarters Plots](https://generals.io/maps/Close%20Quarters%20Plots) by RespectTheFancy - Plots but with 4 plots
+- [Lit Close Quarters Plots](https://generals.io/maps/Lit%20Close%20Quarters%20Plots) by RespectTheFancy - Plots but with 4 plots but lit
