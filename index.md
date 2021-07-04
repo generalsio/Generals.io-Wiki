@@ -1,2 +1,2 @@
 # generals.io wiki
-[maps](maps.md) | [extensions](extensions.md)
+[maps](maps) | [extensions](extensions)
