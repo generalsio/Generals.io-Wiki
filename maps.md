@@ -8,3 +8,5 @@ These maps rely on making sure that every move is done optimally.
 - series: **bog monsters** by dEaTHo - good for defense/offense micro  
   - [-899 stacks](https://generals.io/maps/3v4%20bog%20monsters%2B)
   - [-799 stacks](https://generals.io/maps/3v4%20bog%20monsters)
+- series: [vizion](https://generals.io/maps/vizion%20v0.8) by fakuku
+- series: [vision](https://generals.io/maps/vision%20v0.75) by fakuku
