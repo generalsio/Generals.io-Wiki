@@ -1,6 +1,6 @@
 # Custom Map List by Category
 
-## 1x maps
+### 1x maps
 These maps rely on making sure that every move is done optimally.
 
 - [bogless monsters](https://generals.io/maps/bogless%20monsters) by dEaTHo - good for defense/offense micro  
@@ -10,3 +10,10 @@ These maps rely on making sure that every move is done optimally.
   - [-799 stacks](https://generals.io/maps/3v4%20bog%20monsters)
 - series: [vizion](https://generals.io/maps/vizion%20v0.8) by fakuku
 - series: [vision](https://generals.io/maps/vision%20v0.75) by fakuku
+
+### Plots Variants
+- The OG: [Plots](https://generals.io/maps/Plots) by Assasin978
+- [Plots Lazerpent](https://generals.io/maps/Plots%20Lazerpent) by Lazerpent - Plots but better
+- [Plots Light](https://generals.io/maps/Plots%20Light) by Fekete - Plots but lit
+- [Close Quarters Plots](https://generals.io/maps/Close%20Quarters%20Plots)
+- [Lit Close Quarters Plots](https://generals.io/maps/Lit%20Close%20Quarters%20Plots)
