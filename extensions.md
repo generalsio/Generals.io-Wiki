@@ -35,6 +35,7 @@ If you want to preview some of the extensions before you get them, sample screen
 | [Recolor Extension](https://gist.github.com/Allen-B1/49cebdaddc14e2e45a2282cf5cdc88b3) | person2597 | Makes members of the same team appear to be different shades of the same color, making it easier to see which people are teamed in custom team games and 2v2s. | |
 | [Replay Enhancement Extension](https://gist.github.com/pasghetti/895d9c5e90e07250992edddab3ace3d0) | pasghetti | Allows user to edit replays to show alternate situations. Allows user to mark up replay maps with arrows. Improves replay controls. | Right clicking and dragging allows user to draw arrows on map, also measuring distance between tiles.  Backspace removes last arrow drawn. Replays can be edited by clicking tiles like you would in-game and moving with WASD. Turn navigator menu allows you to see edits made to your replay. Pressing Tab returns the last "alternate" move made. Pressing Ctrl and the right/left arrow key allows user to go forward/backward in steps of 25 turns. Replay can be played in reverse. |
 | [Tournament Extension](https://gist.github.com/Allen-B1/b5b9440306848d4349b287103cc18b98) | person2597 | Creates private generals.io tournaments with BracketHQ. | |
+| [Replay Move Outliner](https://github.com/danieljpetersen/generals-io-replay-move-outliner) | sub | Highlights player moves each tick in replays. | |
 
 Obsolete:
 
